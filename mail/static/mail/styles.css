@@ -1,0 +1,57 @@
+textarea {
+    min-height: 400px;
+}
+
+#outer
+{
+    display: inline-block;
+}
+
+#mailid {
+  border: 1px solid black;
+  margin-top: 10px;
+  font-size: 15px;
+  padding-left: 5px;
+}
+
+#archive-button-div{
+  padding-top: 20px;
+}
+
+#unarchive-button-div{
+  padding-top: 20px;
+}
+
+#reply-button-div{
+  padding-top: 20px;
+}
+
+#t-1 {
+  display: inline-block;
+  margin: 16px;
+  float: right;
+  color: blue;
+}
+
+#t-2 {
+  display: inline-block;
+  margin: 16px;
+  color: white;
+}
+
+#t-3 {
+  display: inline-block;
+  margin: 16px;
+  color: white;
+}
+
+#t-4 {
+  display: inline-block;
+  margin: 16px;
+  color: white;
+}
+
+.Container{
+  border: 1.6px solid black;
+  margin-bottom: 3.2px;
+}
